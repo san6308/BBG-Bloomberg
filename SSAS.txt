@@ -1,0 +1,3 @@
+Tabluar model are in-memory(RAM) databases in Analysis Services.
+It also uses Dictionary encoding technique
+It uses Compression algorithm and multi-threaded query processor
